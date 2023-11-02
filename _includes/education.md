@@ -1,10 +1,11 @@
 ## Education
 
-M.Eng. **Imperial College London**
-
-B.Eng. **Imperial College London**
+<div style="display: flex; justify-content: space-between;">
+    <div>M.Eng. **Imperial College London**</div>
+    <div style="text-align: right;">2018-2019</div>
+</div>
 
 <div style="display: flex; justify-content: space-between;">
-    <div>A</div>
-    <div style="text-align: right;">B</div>
+    <div>B.Eng. **Imperial College London**</div>
+    <div style="text-align: right;">2015-2018</div>
 </div>
