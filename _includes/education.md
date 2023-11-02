@@ -1,6 +1,6 @@
 ## Education
 
-M.Eng. **Imperial College London** <time> 2018 - 2019 </time>
+M.Eng. **Imperial College London** <div align="right"> 2018 - 2019 </div>
 
 B.Eng. **Imperial College London**
 
