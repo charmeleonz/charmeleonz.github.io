@@ -4,6 +4,8 @@ M.Eng. **Imperial College London**
 
 B.Eng. **Imperial College London**
 
+<h2 id="honors--awards" style="color:rgb(59, 103, 236)">Honors &amp; Awards</h2>
+<hr style="margin-top:-16px;margin-bottom:10px;" />
 <table style="border-spacing:2px" width="100%">
     <tbody>
     <tr>
