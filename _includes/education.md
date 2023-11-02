@@ -4,4 +4,7 @@ M.Eng. **Imperial College London**
 
 B.Eng. **Imperial College London**
 
-A<sub>&nbsp;</sub> <sub>&nbsp;</sub><sub>&nbsp;</sub> B
+<div style="display: flex; justify-content: space-between;">
+    <div>A</div>
+    <div style="text-align: right;">B</div>
+</div>
