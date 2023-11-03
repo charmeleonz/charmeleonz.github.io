@@ -11,3 +11,5 @@ My research interests span computer vision, deep learning, and their application
 {% include_relative _includes/education.md %}
 <br>
 {% include_relative _includes/honours.md %}
+<br>
+{% include_relative _includes/experience.md %}
