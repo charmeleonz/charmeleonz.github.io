@@ -12,5 +12,5 @@
 
 <div style="display: flex; justify-content: space-between;">
     <div> <strong> Academic Excellence Award </strong>, Anglo-Chinese School (Independent), Singapore </div>
-    <div style="text-align: right;">2017</div>
+    <div style="text-align: right;">2012</div>
 </div>
